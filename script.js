@@ -22,7 +22,7 @@ right:`<div class="skills"><div class="skill"><small>01 / FRONTEND</small><stron
 {
 chapter:"EPILOGUE / JOURNEY & CONTACT",
 left:`<div class="eyebrow">CHAPTER IV</div><h2 class="folio-title">The journey<br>so far.</h2><div class="timeline"><div class="event"><small>FOUNDATION</small><h3>BCA</h3><p>SS Jain PG College</p></div><div class="event"><small>CURRENT CHAPTER</small><h3>MCA · Cyber Security</h3><p>JECRC NCR Campus, Alwar</p></div><div class="event"><small>NEXT</small><h3>Keep building.</h3><p>The story continues.</p></div></div>`,
-right:`<div class="eyebrow">EPILOGUE</div><h2 class="folio-title">Let's write<br>something new.</h2><p class="bodycopy">If you're building something interesting, exploring an idea, or simply want to connect — this page is intentionally left open.</p><div class="contact-links"><a href="mailto:your.email@example.com"><span>EMAIL</span><span>↗</span></a><a href="#"><span>GITHUB</span><span>↗</span></a><a href="#"><span>LINKEDIN</span><span>↗</span></a></div><div class="signature">The End — for now.</div>`
+right:`<div class="eyebrow">EPILOGUE</div><h2 class="folio-title">Let's write<br>something new.</h2><p class="bodycopy">If you're building something interesting, exploring an idea, or simply want to connect — this page is intentionally left open.</p><div class="contact-links"><a href="mailto:jaiswalc172@gmail.com"><span>EMAIL</span><span>↗</span></a><a href="#"><span>GITHUB</span><span>↗</span></a><a href="#"><span>LINKEDIN</span><span>↗</span></a></div><div class="signature">The End — for now.</div>`
 }
 ];
 let current=0,busy=false;
