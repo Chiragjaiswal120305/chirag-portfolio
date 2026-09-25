@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chirag Jaiswal — The Portfolio Book</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,600&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="desk">
+  <div class="lamp"></div>
+  <div class="book-wrap">
+    <div class="book" id="book">
+      <div class="spine"></div>
+      <section class="page left">
+        <div class="paper-noise"></div>
+        <div class="running"><span>CHIRAG JAISWAL</span><span id="chapter">A DIGITAL AUTOBIOGRAPHY</span></div>
+        <div id="leftContent" class="page-content"></div>
+        <div class="page-num" id="leftNum">01</div>
+      </section>
+      <section class="page right">
+        <div class="paper-noise"></div>
+        <div class="running"><span>PORTFOLIO · 2026</span><span>RAJASTHAN, INDIA</span></div>
+        <div id="rightContent" class="page-content"></div>
+        <div class="page-num" id="rightNum">02</div>
+        <div class="turn-corner" id="next" title="Next page"><span>›</span></div>
+      </section>
+      <div class="flip-sheet" id="flipSheet"></div>
+    </div>
+    <section class="mobile-page" id="mobilePage"></section><div class="controls">
+      <button id="prev">← PREVIOUS</button>
+      <div class="progress"><i id="progress"></i></div>
+      <span id="spreadLabel">01 / 05</span>
+      <button id="nextBtn">NEXT →</button>
+    </div>
+  </div>
+  <div class="hint">CLICK THE PAGE CORNER OR USE ← → KEYS</div>
+</div>
+<script src="script.js"></script>
+</body></html>
